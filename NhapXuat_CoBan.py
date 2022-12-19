@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 16 15:21:56 2022
-
 @author: Gia Bao
 """
 #Nhap
